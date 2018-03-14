@@ -6,7 +6,7 @@
             "type": "title"
         },
         {
-            "content": "./img/contenidos_img1_1.0.0.jpg",
+            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/contenidos_img1_1.0.0.jpg",
             "type": "img"
         },
         {
@@ -30,7 +30,7 @@
             "type": "list"
         },
         {
-            "content": "./img/contenidos_img2_1.0.0.png",
+            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/contenidos_img2_1.0.0.png",
             "type": "img"
         },
         {
