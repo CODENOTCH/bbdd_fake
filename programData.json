@@ -3,59 +3,23 @@
         "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/indice.json"
     },
 
-    "contenidos":{
-        "module1": [
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
-                "isLoaded": false,
-                "id": "1.0.0"
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.0.json",
-                "isLoaded": false,
-                "id": "1.1.0"
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.1.json",
-                "isLoaded": false,
-                "id": "1.1.1"
-            }
-        ],
-        "module2": [
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
-                "isLoaded": false,
-                "id": "1.0.0"
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.0.json",
-                "isLoaded": false,
-                "id": "1.1.0"
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.1.json",
-                "isLoaded": false,
-                "id": "1.1.1"
-            }
-        ],
-        "module3": [
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
-                "isLoaded": false,
-                "id": "1.0.0"
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.0.json",
-                "isLoaded": false,
-                "id": "1.1.0"
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.1.json",
-                "isLoaded": false,
-                "id": "1.1.1"
-            }
-        ]
-    },
+    "contenidos":[
+        {
+            "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
+            "isLoaded": false,
+            "id": "1.0.0"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.0.json",
+            "isLoaded": false,
+            "id": "1.1.0"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.1.json",
+            "isLoaded": false,
+            "id": "1.1.1"
+        }
+    ],
     "slides":{
         "module1": [
             {
