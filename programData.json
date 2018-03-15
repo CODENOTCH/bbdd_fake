@@ -59,76 +59,76 @@
     "slides":{
         "module1": [
             {
-                "links": "Introducción al funcionamiento de Internet",
+                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
                 "isLoaded": false,
                 "idsRelated": ["1.0.0"]
             },
             {
-                "links": "Editor de código Visual Studio Code",
+                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
                 "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1","1.1.2"]
+                "idsRelated": ["1.1.0","1.1.1"]
             }
         ],
         "module2": [
             {
-                "links": "Introducción al funcionamiento de Internet",
+                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
                 "isLoaded": false,
                 "idsRelated": ["1.0.0"]
             },
             {
-                "links": "Editor de código Visual Studio Code",
+                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
                 "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1","1.1.2"]
+                "idsRelated": ["1.1.0","1.1.1"]
             }
         ],
         "module3": [
             {
-                "links": "Introducción al funcionamiento de Internet",
+                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
                 "isLoaded": false,
                 "idsRelated": ["1.0.0"]
             },
             {
-                "links": "Editor de código Visual Studio Code",
+                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
                 "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1","1.1.2"]
+                "idsRelated": ["1.1.0","1.1.1"]
             }
         ]
     },
     "desarrollos":{
         "module1": [
             {
-                "link": "Introducción al funcionamiento de Internet",
+                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
                 "isLoaded": false,
                 "idsRelated": ["1.0.0"]
             },
             {
-                "link": "Editor de código Visual Studio Code",
+                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
                 "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1","1.1.2"]
+                "idsRelated": ["1.1.0","1.1.1"]
             }
         ],
         "module2": [
             {
-                "link": "Introducción al funcionamiento de Internet",
+                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
                 "isLoaded": false,
                 "idsRelated": ["1.0.0"]
             },
             {
-                "link": "Editor de código Visual Studio Code",
+                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
                 "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1","1.1.2"]
+                "idsRelated": ["1.1.0","1.1.1"]
             }
         ],
         "module3": [
             {
-                "link": "Introducción al funcionamiento de Internet",
+                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
                 "isLoaded": false,
                 "idsRelated": ["1.0.0"]
             },
             {
-                "link": "Editor de código Visual Studio Code",
+                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
                 "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1","1.1.2"]
+                "idsRelated": ["1.1.0","1.1.1"]
             }
         ]
     }
