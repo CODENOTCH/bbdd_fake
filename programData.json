@@ -3,97 +3,24 @@
         "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/indice.json"
     },
 
-    "contenidos":[
+    "programa":[
         {
-            "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
-            "isLoaded": false,
-            "id": "1.0.0"
+            "contenidosPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
+            "slidesPaths": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
+            "desarrolloPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
+            "indexId": "1.0.0"
         },
         {
-            "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.0.json",
-            "isLoaded": false,
-            "id": "1.1.0"
+            "contenidosPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.0.json",
+            "slidesPaths": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
+            "desarrolloPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
+            "indexId": "1.1.0"
         },
         {
-            "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.1.json",
-            "isLoaded": false,
-            "id": "1.1.1"
+            "contenidosPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.1.1.json",
+            "slidesPaths": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
+            "desarrolloPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
+            "indexId": "1.1.1"
         }
-    ],
-    "slides":{
-        "module1": [
-            {
-                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
-                "isLoaded": false,
-                "idsRelated": ["1.0.0"]
-            },
-            {
-                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
-                "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1"]
-            }
-        ],
-        "module2": [
-            {
-                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
-                "isLoaded": false,
-                "idsRelated": ["1.0.0"]
-            },
-            {
-                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
-                "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1"]
-            }
-        ],
-        "module3": [
-            {
-                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
-                "isLoaded": false,
-                "idsRelated": ["1.0.0"]
-            },
-            {
-                "links": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.1.0.pdf","https://jdmiguel.com/codenotch_data/pdf/slide_1.1.1.pdf"],
-                "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1"]
-            }
-        ]
-    },
-    "desarrollos":{
-        "module1": [
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
-                "isLoaded": false,
-                "idsRelated": ["1.0.0"]
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
-                "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1"]
-            }
-        ],
-        "module2": [
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
-                "isLoaded": false,
-                "idsRelated": ["1.0.0"]
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
-                "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1"]
-            }
-        ],
-        "module3": [
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
-                "isLoaded": false,
-                "idsRelated": ["1.0.0"]
-            },
-            {
-                "link": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
-                "isLoaded": false,
-                "idsRelated": ["1.1.0","1.1.1"]
-            }
-        ]
-    }
+    ]
 }
