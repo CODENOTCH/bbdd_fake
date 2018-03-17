@@ -7,7 +7,7 @@
         {
             "contenidosPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/contenidos_1.0.0.json",
             "slidesPaths": ["https://jdmiguel.com/codenotch_data/pdf/slide_1.0.0.pdf"],
-            "desarrolloPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.1.json",
+            "desarrolloPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/desarrollos_1.0.json",
             "indexId": "1.0.0"
         },
         {
