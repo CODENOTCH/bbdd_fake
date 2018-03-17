@@ -10,7 +10,7 @@
             "type": "text"
         },
         {
-            "content": "./img/desarrollos_img_1_1.1.jpg",
+            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/desarrollos_img_1_1.1.jpg",
             "type": "img"
         },
         {
@@ -22,7 +22,7 @@
             "type": "text"
         },
         {
-            "content": "./img/desarrollos_img_2_1.1.jpg",
+            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/desarrollos_img_2_1.1.jpg",
             "type": "img"
         }
     ]
