@@ -2,7 +2,8 @@
     "data": [
         {
             "name": "Rocío Pérez Fernández",
-            "path": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/alumno1.json"
+            "path": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/alumno1.json",
+            "studentId": "1.1"
         }
     ]
 }
