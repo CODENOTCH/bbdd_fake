@@ -1,33 +1,8 @@
 {
     "data": [
         {
-            "content": "Rocío Pérez Fernández",
-            "type": "title"
-        },
-        {
-            "content": "Rocío es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
-            "type": "text"
-        },
-        {
-            "content": [
-                {
-                    "content": "Github",
-                    "url": "https://github.com"
-                },
-                {
-                    "content": "Linkedin",
-                    "url": "https://es.linkedin.com/"
-                },
-                {
-                    "content": "Twitter",
-                    "url": "https://twitter.com"
-                }
-            ],
-            "type": "link"
-        },
-        {
-            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno1.jpg",
-            "type": "img"
+            "name": "Rocío Pérez Fernández",
+            "path": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/alumno1.json"
         }
     ]
 }
