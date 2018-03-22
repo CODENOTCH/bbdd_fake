@@ -107,6 +107,58 @@
                         }
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno4.jpg"
+                },
+                {
+                    "name": "Alfredo Martínez Lorca",
+                    "studentId": "1.5",
+                    "description": "Alfredo es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
+                    "data":{
+                        "dni":"42412145E",
+                        "domicilio": "Costa Rica 20, 1:G",
+                        "email": "alfmartinlorca@gmail.com",
+                        "telefono": "665020301"
+                    },
+                    "links": [
+                        {
+                            "content": "Github",
+                            "url": "https://github.com"
+                        },
+                        {
+                            "content": "Linkedin",
+                            "url": "https://es.linkedin.com/"
+                        },
+                        {
+                            "content": "Twitter",
+                            "url": "https://twitter.com"
+                        }
+                    ],
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno5.jpg"
+                },
+                {
+                    "name": "Sara Del Olmo Ruiz",
+                    "studentId": "1.6",
+                    "description": "Sara es sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
+                    "data":{
+                        "dni":"42349890A",
+                        "domicilio": "De las Heras 2, 1:B",
+                        "email": "saritadelolmo1988@gmail.com",
+                        "telefono": "696987132"
+                    },
+                    "links": [
+                        {
+                            "content": "Github",
+                            "url": "https://github.com"
+                        },
+                        {
+                            "content": "Linkedin",
+                            "url": "https://es.linkedin.com/"
+                        },
+                        {
+                            "content": "Twitter",
+                            "url": "https://twitter.com"
+                        }
+                    ],
+                    "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno6.jpg"
                 }
             ],
             "teacherList": [
