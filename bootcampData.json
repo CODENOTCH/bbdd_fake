@@ -39,13 +39,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno1.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 },
                 {
@@ -74,13 +74,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno2.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 },
                 {
@@ -109,13 +109,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno3.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 },
                 {
@@ -144,13 +144,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno4.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 },
                 {
@@ -179,13 +179,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno5.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 },
                 {
@@ -214,13 +214,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/alumno6.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 }
             ],
@@ -245,13 +245,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/profesor1.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 },
                 {
@@ -274,13 +274,13 @@
                     ],
                     "photoPath": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/profesor2.jpg",
                     "weekComments":[
-                        {"week": "1", "comment":"", "confirmedComment":"false"},
-                        {"week": "2", "comment":"", "confirmedComment":"false"},
-                        {"week": "3", "comment":"", "confirmedComment":"false"},
-                        {"week": "4", "comment":"", "confirmedComment":"false"},
-                        {"week": "5", "comment":"", "confirmedComment":"false"},
-                        {"week": "6", "comment":"", "confirmedComment":"false"},
-                        {"week": "7", "comment":"", "confirmedComment":"false"}
+                        {"week": "1", "comment":"", "confirmedComment":false},
+                        {"week": "2", "comment":"", "confirmedComment":false},
+                        {"week": "3", "comment":"", "confirmedComment":false},
+                        {"week": "4", "comment":"", "confirmedComment":false},
+                        {"week": "5", "comment":"", "confirmedComment":false},
+                        {"week": "6", "comment":"", "confirmedComment":false},
+                        {"week": "7", "comment":"", "confirmedComment":false}
                     ]
                 }      
             ]
