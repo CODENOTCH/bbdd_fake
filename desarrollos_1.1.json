@@ -1,29 +1,32 @@
 {
-    "ids":["1.1.0","1.1.1"],
-    "data": [
-        {
-            "content": "1. Instalación del programa",
-            "type": "title"
-        },
-        {
-            "content": "Instalación del programa sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
-            "type": "text"
-        },
-        {
-            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/desarrollos_img1_1.1.jpg",
-            "type": "img"
-        },
-        {
-            "content": "2. Personalización del programa",
-            "type": "title"
-        },
-        {
-            "content": "Personalización del programa sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
-            "type": "text"
-        },
-        {
-            "content": "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/desarrollos_img2_1.1.png",
-            "type": "img"
-        }
-    ]
+    "Paragraphs": {
+        "Ptext": [
+            "Instalación del programa sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad.",
+            "Personalización del programa sit amet, consectetur adipiscing elit. Fusce at temp us metus. Ut at eros quis augue consequat dignissim.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut id velit tristiqueligula tempus hendrerit a nec justo. Integer tempor ante ipsum. Ante ipsum primis in eros quisad."
+        ],
+        "Pposition": [
+            0,
+            2
+        ]
+    },
+    "Images": {
+        "route": [
+            "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/desarrollos_img1_1.1.jpg",
+            "https://raw.githubusercontent.com/CODENOTCH/bbdd_fake/master/img/desarrollos_img2_1.1.png"
+        ],
+        "imageposition": [
+            1,
+            4
+        ]
+    },
+    "Titles": [
+        "1. Instalación del programa",
+        "2. Personalización del programa"
+    ],
+    "Contentids": [
+        "5ab8c0c84fd3cb1b43a7bfc8",
+        "5ab8c0c84fd3cb1b43a7bfc9"
+    ],
+    "_id": "5ab8c90b4eea0b1e0828462e",
+    "__v": 0
 }
