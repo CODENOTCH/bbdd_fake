@@ -6,15 +6,15 @@
        "Subtitleids":["5ab8c0c84fd3cb1b43a7bfc9"]
     },
     "module2": {
-        "Titles": ["Introducción al funcionamiento de Internet","Editor de código Visual Studio Code"],
-       "SubTitles": ["Ventajas de usar Visual Studio Code"],
-       "Titleids":["5ab8c0c84fd3cb1b43a7bfc7","5ab8c0c84fd3cb1b43a7bfc8"],
-       "Subtitleids":["5ab8c0c84fd3cb1b43a7bfc9"]
+        "Titles": ["Introduccion a node","Hola mundo nodejs"],
+       "SubTitles": ["Ventajas de nodejs"],
+       "Titleids":["5ab8c0c84fd3cb1b43a7bfs4","5ab8c0c84fd3cb1b43a7bfb5"],
+       "Subtitleids":["5ab8c0c84fd3cb1b43a7bf82"]
     },
     "module3":{
-        "Titles": ["Introducción al funcionamiento de Internet","Editor de código Visual Studio Code"],
-       "SubTitles": ["Ventajas de usar Visual Studio Code"],
-       "Titleids":["5ab8c0c84fd3cb1b43a7bfc7","5ab8c0c84fd3cb1b43a7bfc8"],
-       "Subtitleids":["5ab8c0c84fd3cb1b43a7bfc9"] 
+        "Titles": ["SQL","Operaciones SELECT"],
+       "SubTitles": ["INNER JOINS"],
+       "Titleids":["5ab8c0c84fd3cb1b43a7bf7g","5ab8c0c84fd3cb1b43a7bf0k"],
+       "Subtitleids":["5ab8c0c84fd3cb1b43a7bf2a"] 
     }
 }
