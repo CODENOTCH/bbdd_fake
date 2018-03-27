@@ -6,15 +6,15 @@
        "Subtitleids":["5ab8c0c84fd3cb1b43a7bfc9"]
     },
     "module2": {
-        "Titles": [],
-        "SubTitles": [] 
+        "Titles": ["Introducción al funcionamiento de Internet","Editor de código Visual Studio Code"],
+       "SubTitles": ["Ventajas de usar Visual Studio Code"],
+       "Titleids":["5ab8c0c84fd3cb1b43a7bfc7","5ab8c0c84fd3cb1b43a7bfc8"],
+       "Subtitleids":["5ab8c0c84fd3cb1b43a7bfc9"]
     },
     "module3":{
-        "Titles": [],
-        "SubTitles": [] 
-    },
-    "module4":{
-        "Titles": [],
-        "SubTitles": [] 
+        "Titles": ["Introducción al funcionamiento de Internet","Editor de código Visual Studio Code"],
+       "SubTitles": ["Ventajas de usar Visual Studio Code"],
+       "Titleids":["5ab8c0c84fd3cb1b43a7bfc7","5ab8c0c84fd3cb1b43a7bfc8"],
+       "Subtitleids":["5ab8c0c84fd3cb1b43a7bfc9"] 
     }
 }
